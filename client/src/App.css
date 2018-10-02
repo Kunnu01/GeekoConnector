@@ -98,10 +98,16 @@ img {
       position: relative;
     }
     .post {
+      text-align: justify;
+      text-justify: inter-word;
       margin-bottom: 5px;
     }
     .force {
       margin-left: 2px;
       white-space: nowrap;
+    }
+    .bio {
+      text-align: justify;
+      text-justify: inter-word;
     }
 }
