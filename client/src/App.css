@@ -100,4 +100,8 @@ img {
     .post {
       margin-bottom: 5px;
     }
+    .force {
+      margin-left: 2px;
+      white-space: nowrap;
+    }
 }
